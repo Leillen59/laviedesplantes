@@ -1,0 +1,365 @@
+[07-Oct-2024 15:03:25 UTC] PHP Warning:  Undefined array key "editor_post_id" in C:\Users\guill\Local Sites\laviedesplantes\app\public\wp-content\plugins\elementor\includes\managers\widgets.php on line 378
+[07-Oct-2024 15:06:52 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Core\Components\Migrations->run_migration(): The migration `fix_optimized_size_keys` successfully executed.
+[07-Oct-2024 15:06:52 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Core\Components\Migrations->run_migration(): The migration `fix_mime_type` successfully executed.
+[07-Oct-2024 15:06:52 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Core\Components\Migrations->run_migration(): The migration `fix_avif_with_zero_dimensions` successfully executed.
+[07-Oct-2024 15:06:56 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[07-Oct-2024 15:07:01 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[07-Oct-2024 15:07:07 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[07-Oct-2024 15:07:54 UTC] Erreur d’événement de replanification de tâche pour le crochet action_scheduler_run_queue. Code d’erreur : invalid_schedule. Message d’erreur : L’évènement planifié n’existe pas.. Données : {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[17-Oct-2024 16:41:14 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:41:24 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:42:55 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:43:20 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:43:25 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:43:30 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:43:35 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:43:41 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:43:45 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:43:50 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:43:55 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:44:00 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:44:05 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:44:10 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:44:15 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:44:20 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:44:25 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:44:30 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:44:35 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:44:40 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:44:45 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:44:50 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:44:55 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:45:00 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:45:05 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:45:10 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:45:15 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:45:20 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:45:25 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:45:30 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:45:35 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:45:40 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:45:45 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:45:50 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:45:55 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:46:00 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:46:05 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:46:10 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:46:15 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:46:20 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:46:25 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:46:30 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:46:35 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:46:40 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:46:45 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:46:50 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:46:55 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:47:00 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:47:05 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:47:10 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:47:15 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:47:20 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:47:25 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:47:30 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:47:35 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:47:40 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:47:45 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:47:50 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:47:55 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:48:00 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:48:05 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:48:10 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:48:15 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:48:20 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:48:25 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:48:30 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:48:35 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:48:40 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:48:45 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:48:50 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:48:55 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:49:00 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:49:05 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:49:10 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:49:15 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:49:20 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:49:25 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:49:30 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:49:35 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:49:40 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:49:45 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:49:50 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:49:55 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:50:00 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:50:05 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:50:10 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:50:15 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:50:20 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:50:25 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:50:30 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:50:35 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:50:40 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:50:45 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:50:50 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:50:55 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:51:00 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:51:05 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:51:10 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:51:15 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:51:20 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:51:25 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:51:30 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:51:35 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:51:40 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:51:45 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:51:50 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:51:55 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:52:00 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:52:05 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:52:10 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:52:15 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:52:20 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:52:25 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:52:30 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:52:35 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:52:40 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:52:45 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:52:50 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:52:55 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:53:00 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:53:05 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:53:10 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:53:15 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:53:20 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:53:25 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:53:30 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:53:35 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:53:40 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:53:45 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:53:50 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:53:55 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:54:00 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:54:05 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:54:10 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:54:15 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:54:20 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:54:25 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:54:30 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:54:35 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:54:40 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:54:45 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:54:50 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:54:55 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:55:00 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:55:05 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:55:10 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:55:15 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:55:20 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:55:25 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:55:30 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:55:35 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:55:40 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:55:45 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:55:50 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:55:55 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:56:00 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:56:05 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:56:10 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:56:15 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:56:20 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:56:25 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:56:30 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:56:35 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:56:40 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:56:45 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:56:50 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:56:55 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:57:00 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:57:05 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:57:10 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:57:15 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:57:20 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:57:25 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:57:30 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:57:35 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:57:40 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:57:45 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:57:50 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:57:55 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:58:00 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:58:05 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:58:10 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:58:15 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:58:20 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:58:25 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:58:45 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:59:18 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:59:20 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:59:25 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:59:30 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:59:35 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:59:40 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:59:45 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:59:50 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 16:59:55 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 17:00:00 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 17:00:05 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 17:00:10 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 17:00:15 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 17:00:20 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 17:00:25 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 17:00:30 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 17:00:35 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 17:00:40 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 17:00:45 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 17:00:50 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 17:00:55 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 17:01:00 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 17:01:05 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 17:01:10 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 17:01:15 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 17:01:20 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 17:01:25 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 17:01:30 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 17:01:35 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 17:01:40 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 17:01:45 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 17:01:50 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 17:01:55 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 17:02:00 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 17:02:05 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 17:02:10 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 17:02:15 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 17:02:20 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 17:02:25 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 17:02:30 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 17:02:35 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 17:02:40 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 17:02:45 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 17:02:50 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 17:02:55 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 17:03:00 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 17:03:05 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 17:03:10 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 17:03:15 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 17:03:20 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 17:03:25 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 17:03:30 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 17:03:35 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 17:03:40 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 17:03:45 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 17:03:50 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 17:03:55 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 17:04:45 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 17:05:45 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 17:06:41 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 17:06:45 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 17:06:50 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 17:06:55 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 17:07:00 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 17:07:05 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 17:07:10 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Oct-2024 17:07:16 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[19-Oct-2024 16:44:39 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[21-Oct-2024 12:58:56 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[21-Oct-2024 13:30:09 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[21-Oct-2024 13:30:14 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[21-Oct-2024 13:56:22 UTC] PHP Warning:  rename(C:\Windows\TEMP/woocommerce.9.3.3-G2eG2J.tmp,C:\Windows\TEMP/woocommerce.9.3.3.zip): Accès refusé (code: 5) in C:\Users\guill\Local Sites\laviedesplantes\app\public\wp-admin\includes\file.php on line 1234
+[21-Oct-2024 13:56:22 UTC] PHP Warning:  unlink(C:\Windows\TEMP/woocommerce.9.3.3.zip): Resource temporarily unavailable in C:\Users\guill\Local Sites\laviedesplantes\app\public\wp-admin\includes\file.php on line 1239
+[21-Oct-2024 13:56:26 UTC] PHP Warning:  dir(C:/Users/guill/Local Sites/laviedesplantes/app/public/wp-content/upgrade/woocommerce.9.3.3/woocommerce/assets/images/blocks/product-filters-overlay/): Le chemin d’accès spécifié est introuvab (code: 3) in C:\Users\guill\Local Sites\laviedesplantes\app\public\wp-admin\includes\class-wp-filesystem-direct.php on line 636
+[21-Oct-2024 13:56:26 UTC] PHP Warning:  dir(C:/Users/guill/Local Sites/laviedesplantes/app/public/wp-content/upgrade/woocommerce.9.3.3/woocommerce/assets/images/blocks/product-filters-overlay/): Failed to open directory: No such file or directory in C:\Users\guill\Local Sites\laviedesplantes\app\public\wp-admin\includes\class-wp-filesystem-direct.php on line 636
+[21-Oct-2024 13:56:26 UTC] PHP Warning:  dir(C:/Users/guill/Local Sites/laviedesplantes/app/public/wp-content/upgrade/woocommerce.9.3.3/woocommerce/assets/images/previews/): Le chemin d’accès spécifié est introuvab (code: 3) in C:\Users\guill\Local Sites\laviedesplantes\app\public\wp-admin\includes\class-wp-filesystem-direct.php on line 636
+[21-Oct-2024 13:56:26 UTC] PHP Warning:  dir(C:/Users/guill/Local Sites/laviedesplantes/app/public/wp-content/upgrade/woocommerce.9.3.3/woocommerce/assets/images/previews/): Failed to open directory: No such file or directory in C:\Users\guill\Local Sites\laviedesplantes\app\public\wp-admin\includes\class-wp-filesystem-direct.php on line 636
+[21-Oct-2024 13:56:27 UTC] PHP Warning:  dir(C:/Users/guill/Local Sites/laviedesplantes/app/public/wp-content/upgrade/woocommerce.9.3.3/woocommerce/lib/packages/Psr/Container/): Le chemin d’accès spécifié est introuvab (code: 3) in C:\Users\guill\Local Sites\laviedesplantes\app\public\wp-admin\includes\class-wp-filesystem-direct.php on line 636
+[21-Oct-2024 13:56:27 UTC] PHP Warning:  dir(C:/Users/guill/Local Sites/laviedesplantes/app/public/wp-content/upgrade/woocommerce.9.3.3/woocommerce/lib/packages/Psr/Container/): Failed to open directory: No such file or directory in C:\Users\guill\Local Sites\laviedesplantes\app\public\wp-admin\includes\class-wp-filesystem-direct.php on line 636
+[21-Oct-2024 13:56:28 UTC] PHP Warning:  dir(C:/Users/guill/Local Sites/laviedesplantes/app/public/wp-content/upgrade/woocommerce.9.3.3/woocommerce/src/Blocks/Images/): Le chemin d’accès spécifié est introuvab (code: 3) in C:\Users\guill\Local Sites\laviedesplantes\app\public\wp-admin\includes\class-wp-filesystem-direct.php on line 636
+[21-Oct-2024 13:56:28 UTC] PHP Warning:  dir(C:/Users/guill/Local Sites/laviedesplantes/app/public/wp-content/upgrade/woocommerce.9.3.3/woocommerce/src/Blocks/Images/): Failed to open directory: No such file or directory in C:\Users\guill\Local Sites\laviedesplantes\app\public\wp-admin\includes\class-wp-filesystem-direct.php on line 636
+[21-Oct-2024 13:56:28 UTC] PHP Warning:  dir(C:/Users/guill/Local Sites/laviedesplantes/app/public/wp-content/upgrade/woocommerce.9.3.3/woocommerce/src/Caches/): Le chemin d’accès spécifié est introuvab (code: 3) in C:\Users\guill\Local Sites\laviedesplantes\app\public\wp-admin\includes\class-wp-filesystem-direct.php on line 636
+[21-Oct-2024 13:56:28 UTC] PHP Warning:  dir(C:/Users/guill/Local Sites/laviedesplantes/app/public/wp-content/upgrade/woocommerce.9.3.3/woocommerce/src/Caches/): Failed to open directory: Permission denied in C:\Users\guill\Local Sites\laviedesplantes\app\public\wp-admin\includes\class-wp-filesystem-direct.php on line 636
+[21-Oct-2024 13:56:28 UTC] PHP Warning:  dir(C:/Users/guill/Local Sites/laviedesplantes/app/public/wp-content/upgrade/woocommerce.9.3.3/woocommerce/vendor/automattic/jetpack-admin-ui/src/): Le chemin d’accès spécifié est introuvab (code: 3) in C:\Users\guill\Local Sites\laviedesplantes\app\public\wp-admin\includes\class-wp-filesystem-direct.php on line 636
+[21-Oct-2024 13:56:28 UTC] PHP Warning:  dir(C:/Users/guill/Local Sites/laviedesplantes/app/public/wp-content/upgrade/woocommerce.9.3.3/woocommerce/vendor/automattic/jetpack-admin-ui/src/): Failed to open directory: Directory not empty in C:\Users\guill\Local Sites\laviedesplantes\app\public\wp-admin\includes\class-wp-filesystem-direct.php on line 636
+[21-Oct-2024 13:56:29 UTC] PHP Warning:  dir(C:/Users/guill/Local Sites/laviedesplantes/app/public/wp-content/upgrade/woocommerce.9.3.3/woocommerce/vendor/automattic/jetpack-roles/src/): Le chemin d’accès spécifié est introuvab (code: 3) in C:\Users\guill\Local Sites\laviedesplantes\app\public\wp-admin\includes\class-wp-filesystem-direct.php on line 636
+[21-Oct-2024 13:56:29 UTC] PHP Warning:  dir(C:/Users/guill/Local Sites/laviedesplantes/app/public/wp-content/upgrade/woocommerce.9.3.3/woocommerce/vendor/automattic/jetpack-roles/src/): Failed to open directory: No such file or directory in C:\Users\guill\Local Sites\laviedesplantes\app\public\wp-admin\includes\class-wp-filesystem-direct.php on line 636
+[21-Oct-2024 14:07:57 UTC] PHP Warning:  rename(C:\Windows\TEMP/woocommerce.9.3.3-Cpmwrx.tmp,C:\Windows\TEMP/woocommerce.9.3.3.zip): Accès refusé (code: 5) in C:\Users\guill\Local Sites\laviedesplantes\app\public\wp-admin\includes\file.php on line 1234
+[21-Oct-2024 14:07:57 UTC] PHP Warning:  unlink(C:\Windows\TEMP/woocommerce.9.3.3.zip): Resource temporarily unavailable in C:\Users\guill\Local Sites\laviedesplantes\app\public\wp-admin\includes\file.php on line 1239
+[21-Oct-2024 14:08:06 UTC] PHP Warning:  dir(C:/Users/guill/Local Sites/laviedesplantes/app/public/wp-content/upgrade/woocommerce.9.3.3/woocommerce/includes/shipping/legacy-free-shipping/): Le chemin d’accès spécifié est introuvab (code: 3) in C:\Users\guill\Local Sites\laviedesplantes\app\public\wp-admin\includes\class-wp-filesystem-direct.php on line 636
+[21-Oct-2024 14:08:06 UTC] PHP Warning:  dir(C:/Users/guill/Local Sites/laviedesplantes/app/public/wp-content/upgrade/woocommerce.9.3.3/woocommerce/includes/shipping/legacy-free-shipping/): Failed to open directory: No such file or directory in C:\Users\guill\Local Sites\laviedesplantes\app\public\wp-admin\includes\class-wp-filesystem-direct.php on line 636
+[21-Oct-2024 14:08:06 UTC] PHP Warning:  dir(C:/Users/guill/Local Sites/laviedesplantes/app/public/wp-content/upgrade/woocommerce.9.3.3/woocommerce/packages/woocommerce-admin/): Le chemin d’accès spécifié est introuvab (code: 3) in C:\Users\guill\Local Sites\laviedesplantes\app\public\wp-admin\includes\class-wp-filesystem-direct.php on line 636
+[21-Oct-2024 14:08:06 UTC] PHP Warning:  dir(C:/Users/guill/Local Sites/laviedesplantes/app/public/wp-content/upgrade/woocommerce.9.3.3/woocommerce/packages/woocommerce-admin/): Failed to open directory: No such file or directory in C:\Users\guill\Local Sites\laviedesplantes\app\public\wp-admin\includes\class-wp-filesystem-direct.php on line 636
+[21-Oct-2024 14:08:07 UTC] PHP Warning:  dir(C:/Users/guill/Local Sites/laviedesplantes/app/public/wp-content/upgrade/woocommerce.9.3.3/woocommerce/src/Admin/API/Reports/PerformanceIndicators/): Le chemin d’accès spécifié est introuvab (code: 3) in C:\Users\guill\Local Sites\laviedesplantes\app\public\wp-admin\includes\class-wp-filesystem-direct.php on line 636
+[21-Oct-2024 14:08:07 UTC] PHP Warning:  dir(C:/Users/guill/Local Sites/laviedesplantes/app/public/wp-content/upgrade/woocommerce.9.3.3/woocommerce/src/Admin/API/Reports/PerformanceIndicators/): Failed to open directory: No such file or directory in C:\Users\guill\Local Sites\laviedesplantes\app\public\wp-admin\includes\class-wp-filesystem-direct.php on line 636
+[21-Oct-2024 14:08:08 UTC] PHP Warning:  dir(C:/Users/guill/Local Sites/laviedesplantes/app/public/wp-content/upgrade/woocommerce.9.3.3/woocommerce/src/Admin/Features/ProductBlockEditor/ProductTemplates/): Le chemin d’accès spécifié est introuvab (code: 3) in C:\Users\guill\Local Sites\laviedesplantes\app\public\wp-admin\includes\class-wp-filesystem-direct.php on line 636
+[21-Oct-2024 14:08:08 UTC] PHP Warning:  dir(C:/Users/guill/Local Sites/laviedesplantes/app/public/wp-content/upgrade/woocommerce.9.3.3/woocommerce/src/Admin/Features/ProductBlockEditor/ProductTemplates/): Failed to open directory: No such file or directory in C:\Users\guill\Local Sites\laviedesplantes\app\public\wp-admin\includes\class-wp-filesystem-direct.php on line 636
+[21-Oct-2024 14:08:08 UTC] PHP Warning:  dir(C:/Users/guill/Local Sites/laviedesplantes/app/public/wp-content/upgrade/woocommerce.9.3.3/woocommerce/src/Admin/Notes/): Le chemin d’accès spécifié est introuvab (code: 3) in C:\Users\guill\Local Sites\laviedesplantes\app\public\wp-admin\includes\class-wp-filesystem-direct.php on line 636
+[21-Oct-2024 14:08:08 UTC] PHP Warning:  dir(C:/Users/guill/Local Sites/laviedesplantes/app/public/wp-content/upgrade/woocommerce.9.3.3/woocommerce/src/Admin/Notes/): Failed to open directory: No such file or directory in C:\Users\guill\Local Sites\laviedesplantes\app\public\wp-admin\includes\class-wp-filesystem-direct.php on line 636
+[25-Oct-2024 08:20:57 UTC] PHP Warning:  Undefined array key "id" in C:\Users\guill\Local Sites\laviedesplantes\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 41
+[25-Oct-2024 08:20:57 UTC] PHP Warning:  Undefined array key "id" in C:\Users\guill\Local Sites\laviedesplantes\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 41
+[25-Oct-2024 08:20:57 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\guill\Local Sites\laviedesplantes\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[25-Oct-2024 08:20:57 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\guill\Local Sites\laviedesplantes\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[25-Oct-2024 08:20:57 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\guill\Local Sites\laviedesplantes\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[25-Oct-2024 08:20:57 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\guill\Local Sites\laviedesplantes\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[25-Oct-2024 08:20:57 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\guill\Local Sites\laviedesplantes\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[25-Oct-2024 08:20:57 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\guill\Local Sites\laviedesplantes\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[25-Oct-2024 08:20:57 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\guill\Local Sites\laviedesplantes\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[25-Oct-2024 08:20:57 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\guill\Local Sites\laviedesplantes\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[25-Oct-2024 08:20:57 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\guill\Local Sites\laviedesplantes\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[25-Oct-2024 08:20:57 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\guill\Local Sites\laviedesplantes\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[25-Oct-2024 08:20:57 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\guill\Local Sites\laviedesplantes\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[25-Oct-2024 08:20:58 UTC] PHP Warning:  Undefined array key "id" in C:\Users\guill\Local Sites\laviedesplantes\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 41
+[25-Oct-2024 08:20:58 UTC] PHP Warning:  Undefined array key "id" in C:\Users\guill\Local Sites\laviedesplantes\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 41
+[25-Oct-2024 08:20:58 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\guill\Local Sites\laviedesplantes\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[25-Oct-2024 08:20:58 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\guill\Local Sites\laviedesplantes\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[25-Oct-2024 08:20:58 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\guill\Local Sites\laviedesplantes\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[25-Oct-2024 08:20:58 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\guill\Local Sites\laviedesplantes\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[25-Oct-2024 08:20:58 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\guill\Local Sites\laviedesplantes\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[25-Oct-2024 08:20:58 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\guill\Local Sites\laviedesplantes\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[25-Oct-2024 08:20:58 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\guill\Local Sites\laviedesplantes\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[25-Oct-2024 08:20:58 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\guill\Local Sites\laviedesplantes\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[25-Oct-2024 08:20:58 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\guill\Local Sites\laviedesplantes\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[25-Oct-2024 08:20:58 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\guill\Local Sites\laviedesplantes\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[25-Oct-2024 08:20:58 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\guill\Local Sites\laviedesplantes\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[25-Oct-2024 08:21:00 UTC] PHP Warning:  Undefined array key "id" in C:\Users\guill\Local Sites\laviedesplantes\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 41
+[25-Oct-2024 08:21:00 UTC] PHP Warning:  Undefined array key "id" in C:\Users\guill\Local Sites\laviedesplantes\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 41
+[25-Oct-2024 08:21:00 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\guill\Local Sites\laviedesplantes\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[25-Oct-2024 08:21:00 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\guill\Local Sites\laviedesplantes\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[25-Oct-2024 08:21:00 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\guill\Local Sites\laviedesplantes\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[25-Oct-2024 08:21:00 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\guill\Local Sites\laviedesplantes\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[25-Oct-2024 08:21:00 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\guill\Local Sites\laviedesplantes\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[25-Oct-2024 08:21:00 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\guill\Local Sites\laviedesplantes\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[25-Oct-2024 08:21:00 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\guill\Local Sites\laviedesplantes\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[25-Oct-2024 08:21:00 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\guill\Local Sites\laviedesplantes\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[25-Oct-2024 08:21:00 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\guill\Local Sites\laviedesplantes\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[25-Oct-2024 08:21:00 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\guill\Local Sites\laviedesplantes\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[25-Oct-2024 08:21:00 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\guill\Local Sites\laviedesplantes\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[25-Oct-2024 08:21:56 UTC] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: int * string in C:\Users\guill\Local Sites\laviedesplantes\app\public\wp-content\plugins\woolentor-addons\includes\archive_product_render.php:187
+Stack trace:
+#0 C:\Users\guill\Local Sites\laviedesplantes\app\public\wp-content\plugins\woolentor-addons\includes\archive_product_render.php(31): Archive_Products_Render->parse_query_args()
+#1 C:\Users\guill\Local Sites\laviedesplantes\app\public\wp-content\plugins\woolentor-addons\includes\addons\wb_archive_product.php(947): Archive_Products_Render->__construct(Array, 'products', true)
+#2 C:\Users\guill\Local Sites\laviedesplantes\app\public\wp-content\plugins\elementor\includes\base\controls-stack.php(2325): Elementor\Woolentor_Wb_Archive_Product_Widget->render()
+#3 C:\Users\guill\Local Sites\laviedesplantes\app\public\wp-content\plugins\elementor\includes\base\widget-base.php(635): Elementor\Controls_Stack->render_by_mode()
+#4 C:\Users\guill\Local Sites\laviedesplantes\app\public\wp-content\plugins\elementor\core\base\document.php(387): Elementor\Widget_Base->render_content()
+#5 C:\Users\guill\Local Sites\laviedesplantes\app\public\wp-content\plugins\elementor\includes\managers\widgets.php(461): Elementor\Core\Base\Document->render_element(Array)
+#6 [internal function]: Elementor\Widgets_Manager->ajax_render_widget(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#7 C:\Users\guill\Local Sites\laviedesplantes\app\public\wp-content\plugins\elementor\core\common\modules\ajax\module.php(176): call_user_func(Array, Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#8 C:\Users\guill\Local Sites\laviedesplantes\app\public\wp-includes\class-wp-hook.php(324): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request('')
+#9 C:\Users\guill\Local Sites\laviedesplantes\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#10 C:\Users\guill\Local Sites\laviedesplantes\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#11 C:\Users\guill\Local Sites\laviedesplantes\app\public\wp-admin\admin-ajax.php(192): do_action('wp_ajax_element...')
+#12 {main}
+  thrown in C:\Users\guill\Local Sites\laviedesplantes\app\public\wp-content\plugins\woolentor-addons\includes\archive_product_render.php on line 187
+[25-Oct-2024 08:21:58 UTC] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: int * string in C:\Users\guill\Local Sites\laviedesplantes\app\public\wp-content\plugins\woolentor-addons\includes\archive_product_render.php:187
+Stack trace:
+#0 C:\Users\guill\Local Sites\laviedesplantes\app\public\wp-content\plugins\woolentor-addons\includes\archive_product_render.php(31): Archive_Products_Render->parse_query_args()
+#1 C:\Users\guill\Local Sites\laviedesplantes\app\public\wp-content\plugins\woolentor-addons\includes\addons\wb_archive_product.php(947): Archive_Products_Render->__construct(Array, 'products', true)
+#2 C:\Users\guill\Local Sites\laviedesplantes\app\public\wp-content\plugins\elementor\includes\base\controls-stack.php(2325): Elementor\Woolentor_Wb_Archive_Product_Widget->render()
+#3 C:\Users\guill\Local Sites\laviedesplantes\app\public\wp-content\plugins\elementor\includes\base\widget-base.php(635): Elementor\Controls_Stack->render_by_mode()
+#4 C:\Users\guill\Local Sites\laviedesplantes\app\public\wp-content\plugins\elementor\core\base\document.php(387): Elementor\Widget_Base->render_content()
+#5 C:\Users\guill\Local Sites\laviedesplantes\app\public\wp-content\plugins\elementor\includes\managers\widgets.php(461): Elementor\Core\Base\Document->render_element(Array)
+#6 [internal function]: Elementor\Widgets_Manager->ajax_render_widget(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#7 C:\Users\guill\Local Sites\laviedesplantes\app\public\wp-content\plugins\elementor\core\common\modules\ajax\module.php(176): call_user_func(Array, Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#8 C:\Users\guill\Local Sites\laviedesplantes\app\public\wp-includes\class-wp-hook.php(324): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request('')
+#9 C:\Users\guill\Local Sites\laviedesplantes\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#10 C:\Users\guill\Local Sites\laviedesplantes\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#11 C:\Users\guill\Local Sites\laviedesplantes\app\public\wp-admin\admin-ajax.php(192): do_action('wp_ajax_element...')
+#12 {main}
+  thrown in C:\Users\guill\Local Sites\laviedesplantes\app\public\wp-content\plugins\woolentor-addons\includes\archive_product_render.php on line 187
+[25-Oct-2024 08:50:11 UTC] Erreur d’événement de replanification de tâche pour le crochet action_scheduler_run_queue. Code d’erreur : could_not_set. Message d’erreur : La liste des évènements planifiés n’a pas pu être sauvegardée.. Données : {"schedule":"every_minute","args":["WP Cron"],"interval":60}
